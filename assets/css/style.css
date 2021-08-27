@@ -126,7 +126,7 @@ p {
     font-size: 36px;
 }
 
-/* Changed class "footer" to semantic funtion "footer" */
+/* Changed class "footer" to semantic tag "footer" */
 footer {
     padding: 30px;
     clear: both;
@@ -134,7 +134,7 @@ footer {
     text-align: center;
 }
 
-/* Changed to from class "footer" to function "footer" */
+/* Changed to from class "footer" to tag "footer" */
 footer h2 {
     font-size: 20px;
 }
