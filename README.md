@@ -48,16 +48,20 @@ Although this is simply a refactored webpage and no installation is necessary, t
     WHEN I view the title element
 
     THEN I find a concise, descriptive title
+        
+### Mock-Up
+
+![Mock-Up](assets/images/0.png)
 
 ## Usage
 - Please see below for information regarding the refactoring needed for this webpage:
 
-![](assets/images/1.png)
-![](assets/images/2.png)
-![](assets/images/3.png)
-![](assets/images/4.png)
-![](assets/images/5.png)
-![](assets/images/6.png)
+![1](assets/images/1.png)
+![2](assets/images/2.png)
+![3](assets/images/3.png)
+![4](assets/images/4.png)
+![5](assets/images/5.png)
+![6](assets/images/6.png)
 
 ## Credits
 - https://www.internetingishard.com/html-and-css/semantic-html/
