@@ -7,7 +7,7 @@
 - What did I learn? I learned which tags I need to use in HTML to make the document follow Semantic rules. I learned how to consolidate code in CSS.
 
 ## Table of Contents
-If your README is long, add a table of contents to make it easy for users to find what they need.
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
