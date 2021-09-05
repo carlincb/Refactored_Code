@@ -2,7 +2,7 @@
 ## Description
 
 - What was my motivation? I needed to refactor the code for this webpage so that it followed Semantic HTML logic.
-- Why did I build this project? I built this project to better understand the logic behind "Accessibiliy" and the art of consolidating CSS code.
+- Why did I build this project? I built this project to better understand the logic behind "Accessibility" and the art of consolidating CSS code.
 - What problem does it solve? This project made this webpage "accessible" for search engines and voice readers.
 - What did I learn? I learned which tags I need to use in HTML to make the document follow Semantic rules. I learned how to consolidate code in CSS.
 
